@@ -1,5 +1,6 @@
 """
 	基于Memoization的递归可以大大提升性能，此时可以自定义一个memorize修饰器
+	author:Andy
 """
 import functools
 
